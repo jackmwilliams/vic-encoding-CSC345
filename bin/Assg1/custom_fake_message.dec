@@ -1,0 +1,8 @@
+091069
+A waLk DowN mem lane
+tMx NSp Zy
+15357857825312373737
+// Correct decoding (derived by hand): should error (message is constructed such that it will error your checkerboard)
+// Your    decoding (derived by prog):                                (paste below to quickly compare)
+
+15357857825312373737: ID=25312 msg=153578578373737
